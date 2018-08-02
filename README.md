@@ -9,8 +9,9 @@ The overall price is much higher on May 15 than other dates. For the other dates
 
 ## Machine learning models performance
 
-Model	          Cross Validation MSE	  Test MSE
-Baseline	      14311627419.02095
-Ridge	          5357328970.21	      5837489353.82
-Decision Tree 	6507204205.87	      7907573268.44
-Random Forest	  5532697156.03	      6610555583.08
+Model	     |     Cross Validation MSE	 | Test MSE
+-------------------------------------------------
+Baseline	  |    14311627419.02095    |
+Ridge	     |     5357328970.21	   |   5837489353.82
+Decision Tree |	6507204205.87	   |   7907573268.44
+Random Forest	|  5532697156.03	  |    6610555583.08
